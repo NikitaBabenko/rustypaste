@@ -1,5 +1,15 @@
 <a href="https://github.com/orhun/rustypaste"><img src="img/rustypaste_logo.png" width="500"></a>
 
+### VibeNest deployment assessment — not verified
+
+![Deploy to VibeNest — inactive pending acceptance](https://vibenest.net/deploy-to-vibenest.svg)
+
+This badge is deliberately **not a deployment link**. The official v0.18.1
+image plus configuration was assessed on 27 October 2026 and does not meet
+this pilot's required controls. No Free deployment or public demo has been
+accepted. See [the assessment and remaining requirements](VIBENEST.md).
+Upstream source, tests and license are preserved below and in this fork.
+
 [![GitHub Release](https://img.shields.io/github/v/release/orhun/rustypaste?style=flat&labelColor=823213&color=2c2c2c&logo=GitHub&logoColor=white)](https://github.com/orhun/rustypaste/releases)
 [![Crate Release](https://img.shields.io/crates/v/rustypaste?style=flat&labelColor=823213&color=2c2c2c&logo=Rust&logoColor=white)](https://crates.io/crates/rustypaste/)
 [![Coverage](https://img.shields.io/codecov/c/gh/orhun/rustypaste?style=flat&labelColor=823213&color=2c2c2c&logo=Codecov&logoColor=white)](https://codecov.io/gh/orhun/rustypaste)
